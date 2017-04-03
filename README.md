@@ -2,6 +2,15 @@
 - URL: https://www.kaggle.com/c/leaf-classification
 - 画像と特徴量(192次元)から99クラスのラベルに葉っぱを分類する．
 
+## Usage
+- Kaggleからデータセットを入手し，inputフォルダに入れる
+- 下記コマンドを実行する．
+```
+cd leaf
+python main.py
+```
+- output/submissions.csvを提出する． 
+
 ## Score
 - 0.06235
 
